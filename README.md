@@ -1,3 +1,6 @@
+Scroll down in this section for the the Credits.
+
+
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
@@ -750,9 +753,14 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
    - `syncPolicy`: Configure the sync policy, including automatic syncing, pruning, and self-healing.
 
 4. **Access your Application**
-   - To Access the app make sure port 30007 is open in your security group and then open a new tab paste your NodeIP:30007, your app should be running.
+- To Access the app make sure port 30007 is open in your security group and then open a new tab paste your NodeIP:30007, your app should be running.
 
 **Phase 7: Cleanup**
 
 1. **Cleanup AWS EC2 Instances:**
     - Terminate AWS EC2 instances that are no longer needed.
+
+
+
+
+# Thanks to Nasiullha Chaudhari Sir (N4si) for providing the guidance, and the resources all credit of this Repo goes to the owner N4Si (Nasiullha Chaudhari)
